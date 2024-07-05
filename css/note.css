@@ -1,0 +1,109 @@
+/* For screen width 320px */
+@media only screen and (min-width: 320px) {
+    /* Styles for screens with a minimum width of 320px */
+}
+
+/* For screen width 360px */
+@media only screen and (min-width: 360px) {
+    /* Styles for screens with a minimum width of 360px */
+}
+
+/* For screen width 375px */
+@media only screen and (min-width: 375px) {
+    /* Styles for screens with a minimum width of 375px */
+}
+
+/* For screen width 414px */
+@media only screen and (min-width: 414px) {
+    /* Styles for screens with a minimum width of 414px */
+}
+
+/* For screen width 480px */
+@media only screen and (min-width: 480px) {
+    /* Styles for screens with a minimum width of 480px */
+}
+
+/* For screen width 568px */
+@media only screen and (min-width: 568px) {
+    /* Styles for screens with a minimum width of 568px */
+}
+
+/* For screen width 608px and min height 320px */
+@media only screen and (min-width: 608px) and (min-height: 320px) {
+    /* Styles for screens with a minimum width of 608px and minimum height of 320px */
+}
+
+/* For screen width 608px and min height 768px */
+@media only screen and (min-width: 608px) and (min-height: 768px) {
+    /* Styles for screens with a minimum width of 608px and minimum height of 768px */
+}
+
+/* For screen width 720px */
+@media only screen and (min-width: 720px) {
+    /* Styles for screens with a minimum width of 720px */
+}
+
+/* For screen width 768px */
+@media only screen and (min-width: 768px) {
+    /* Styles for screens with a minimum width of 768px */
+}
+
+/* For screen width 800px */
+@media only screen and (min-width: 800px) {
+    /* Styles for screens with a minimum width of 800px */
+}
+
+/* For screen width 824px */
+@media only screen and (min-width: 824px) {
+    /* Styles for screens with a minimum width of 824px */
+}
+
+/* For screen width 824px and min height 1024px */
+@media only screen and (min-width: 824px) and (min-height: 1024px) {
+    /* Styles for screens with a minimum width of 824px and minimum height of 1024px */
+}
+
+/* For screen width 1024px */
+@media only screen and (min-width: 1024px) {
+    /* Styles for screens with a minimum width of 1024px */
+}
+
+/* For screen width 1080px */
+@media only screen and (min-width: 1080px) {
+    /* Styles for screens with a minimum width of 1080px */
+}
+
+/* For screen width 1177px */
+@media only screen and (min-width: 1177px) {
+    /* Styles for screens with a minimum width of 1177px */
+}
+
+/* For screen width 1280px */
+@media only screen and (min-width: 1280px) {
+    /* Styles for screens with a minimum width of 1280px */
+}
+
+/* For screen width 1440px */
+@media only screen and (min-width: 1440px) {
+    /* Styles for screens with a minimum width of 1440px */
+}
+
+/* For screen width 1536px */
+@media only screen and (min-width: 1536px) {
+    /* Styles for screens with a minimum width of 1536px */
+}
+
+/* For screen width 1536px to 1899px (Tablet Portrait) */
+@media only screen and (min-width: 1536px) and (max-width: 1899px) {
+    /* Styles for screens with a minimum width of 1536px and a maximum width of 1899px */
+}
+
+/* For screen width 1920px */
+@media only screen and (min-width: 1920px) {
+    /* Styles for screens with a minimum width of 1920px */
+}
+
+/* For screen width 2560px */
+@media only screen and (min-width: 2560px) {
+    /* Styles for screens with a minimum width of 2560px */
+}
